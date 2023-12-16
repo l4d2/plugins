@@ -1,0 +1,25 @@
+"Games"
+{
+    "left4dead2"
+    {
+		"Signatures"
+		{
+			"CheckRequestRestart"
+			{
+				"library"	"engine"
+				"linux"		"@_ZN11CBaseServer31CheckMasterServerRequestRestartEv"
+				"windows"	""
+			}
+		}
+		"Functions"
+		{
+			"CheckRequestRestart"
+			{
+				"signature"		"CheckRequestRestart"
+				"callconv"		"thiscall"
+				"return"		"void"
+				"this"			"ignore"
+			}
+		}
+    }
+}

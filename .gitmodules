@@ -1,0 +1,18 @@
+[submodule "multiplayer/l4d2_rmc"]
+	path = multiplayer/l4d2_rmc
+	url = https://github.com/lakwsh/l4d2_rmc
+[submodule "patch/l4d2_vomit_fix"]
+	path = patch/l4d2_vomit_fix
+	url = https://github.com/lakwsh/l4d2_vomit_fix
+[submodule "functions/sm_bandb"]
+	path = functions/sm_bandb
+	url = https://github.com/lakwsh/sm_bandb
+[submodule "functions/MapTool"]
+	path = functions/MapTool
+	url = https://github.com/lakwsh/MapTool
+[submodule "multiplayer/l4dtoolz"]
+	path = multiplayer/l4dtoolz
+	url = https://github.com/lakwsh/l4dtoolz
+[submodule "functions/SrvTimer"]
+	path = functions/SrvTimer
+	url = https://github.com/lakwsh/SrvTimer
