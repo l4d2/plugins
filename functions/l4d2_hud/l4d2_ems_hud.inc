@@ -46,6 +46,10 @@
 #define HUD_FLAG_STR			(1<<13)
 #define HUD_FLAG_NOTVISIBLE		(1<<14)
 
+stock void EnableHUD() {
+	GameRules_SetProp("m_bChallengeModeActive", true, _, _, true);
+}
+
 /**
  * Passes a table that defines your in-game HUD to the engine.
  * CScriptHud::HUDSetLayout(CScriptHud *, int).

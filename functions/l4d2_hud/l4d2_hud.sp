@@ -27,6 +27,7 @@ public void OnMapStart() {
     char mode[16] = {0};
     FindConVar("mp_gamemode").GetString(mode, sizeof(mode));
     Enable = StrEqual(mode, "coop") || StrEqual(mode, "realism") || StrEqual(mode, "survival");
+    EnableHUD();
     HudInit();
 }
 
