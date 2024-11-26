@@ -7,9 +7,6 @@
 [submodule "functions/sm_bandb"]
 	path = functions/sm_bandb
 	url = https://github.com/lakwsh/sm_bandb
-[submodule "functions/MapTool"]
-	path = functions/MapTool
-	url = https://github.com/lakwsh/MapTool
 [submodule "multiplayer/l4dtoolz"]
 	path = multiplayer/l4dtoolz
 	url = https://github.com/lakwsh/l4dtoolz
